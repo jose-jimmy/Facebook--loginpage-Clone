@@ -1,0 +1,136 @@
+/*--[[[Facebook top div]]]---*/
+.header {
+  background: #3b5998;
+  width: 100%;
+  height: 85px;
+}
+body {
+  margin: 0;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo {
+  width: 50%;
+  padding-top: 32px;
+  float: left;
+}
+.login {
+  width: 50%;
+  float: left;
+  padding-top: 10px;
+}
+.logo-text {
+  color: #ffff;
+  font-size: 38px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 170px;
+}
+.login-label {
+  color: #ffff;
+  font-size: 11px;
+}
+.login-controls {
+  margin-left: 115px;
+}
+.forgotten {
+  font-size: 11px;
+  text-decoration: none;
+  color: #9cb4d8;
+}
+.button {
+  color: #fff;
+  background: #4267b2;
+  border-color: #29487d;
+  border: 5px;
+  height: 20px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #29487d;
+}
+/* [[[----End of top facebook div----]]]*/
+
+/*[[[----Main body----]]]*/
+.left-section {
+  width: 50%;
+  float: left;
+  padding-left: 130px;
+  padding-top: 30px;
+}
+.right-section {
+  width: 39%;
+  float: left;
+  padding-top: 0px;
+}
+.main-body {
+  background: linear-gradient(white, #babbc2df);
+  width: 100%;
+  height: 578px;
+}
+.fb-image {
+  width: 530px;
+}
+.para {
+  font-size: 21px;
+  font-weight: bold;
+}
+.login-form {
+  height: 30px;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: rgb(172, 171, 171);
+}
+.mobile-no {
+  height: 30px;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: rgb(172, 171, 171);
+  width: 353px;
+  margin-top: 10px;
+}
+.birthday {
+  color: rgb(105, 105, 105);
+}
+.birthday-day {
+  color: rgb(27, 27, 27);
+  font-weight: bold;
+  cursor: pointer;
+  border-color: rgb(172, 171, 171);
+  height: 30px;
+  border-radius: 4px;
+}
+.help {
+  height: 18px;
+  padding-left: 10px;
+}
+.help:hover {
+  cursor: pointer;
+}
+.gender {
+  color: rgb(105, 105, 105);
+}
+.gender-button {
+  color: rgb(44, 44, 44);
+  font-weight: bold;
+}
+.terms {
+  font-size: 12px;
+  text-decoration: none;
+  color: grey;
+}
+.conditions {
+  text-decoration: none;
+}
+.sign-up {
+  cursor: pointer;
+  width: 170px;
+  height: 37px;
+  color: #fff;
+  background-color: #4caf50;
+  font-weight: bold;
+  border-radius: 6px;
+  border-color: #4caf50;
+  display: inline-block;
+  font-size: 16px;
+  text-align: center;
+}
