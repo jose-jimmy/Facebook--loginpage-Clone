@@ -8,7 +8,32 @@ $(document).ready(function(){
         sname:{
              required:true,
             minlength:4
+        },
+        emailAddress:{
+            required:true,
+            email:true
+        },
+        password:{
+            minlength:6,
+            maxlength:10
+        },
+        day:{
+            required:true,
+            minlength:1
+            
+        },
+        month:{
+            required:true
+        },
+        gender:{
+            required:true
         }
+
+        },
+        messages:{
+            fname:{
+                required:"Enter first name"
+            }
         }
     })
 })
